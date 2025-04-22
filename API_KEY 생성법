@@ -1,0 +1,8 @@
+https://www.anthropic.com/api 에 접속합니다.
+start building 클릭
+이메일 주소 입력후 Continue With email을 클릭합니다
+콘솔 접속 후 Get API Keys 클릭합니다 (API key 생성하는 메뉴가 자동으로 뜰 수도 있는데, 그럼 거기서 생성)
+Create Key 클릭
+이름 설정 후 -> 키 복사
+
+주의! API key를 생성하고 사용하면 사용한 만큼 비용이 부과됩니다 (프로그램은 무료이지만, API는 무료가 아닙니다)
